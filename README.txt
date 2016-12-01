@@ -1,52 +1,13 @@
-Result
-
-Inital cluster
-Cluster 0	Centroid = A7: [6.00,2.00]	Members = A1: [1.00,1.00]	A2: [1.00,2.00]	A3: [2.00,0.00]	A4: [2.00,3.00]	A7: [6.00,2.00]
-Cluster 1	Centroid = A8: [6.00,4.00]	Members = A8: [6.00,4.00]
-Cluster 2	Centroid = A10: [7.00,2.00]	Members = A10: [7.00,2.00]
-Cluster 3	Centroid = A11: [7.00,5.00]	Members = A5: [5.00,10.00]	A6: [5.00,12.00]	A9: [6.00,10.00]	A11: [7.00,5.00]	A12: [9.00,9.00]	A13: [10.00,7.00]	A14: [10.00,9.00]	A15: [11.00,8.00]
-Iteration: 1
-Cluster 0	Centroid = A1: [1.00,1.00]	Members = A1: [1.00,1.00]	A2: [1.00,2.00]	A3: [2.00,0.00]	A4: [2.00,3.00]
-Cluster 1	Centroid = A8: [6.00,4.00]	Members = A8: [6.00,4.00]
-Cluster 2	Centroid = A10: [7.00,2.00]	Members = A7: [6.00,2.00]	A10: [7.00,2.00]
-Cluster 3	Centroid = A11: [7.00,5.00]	Members = A5: [5.00,10.00]	A6: [5.00,12.00]	A9: [6.00,10.00]	A11: [7.00,5.00]	A12: [9.00,9.00]	A13: [10.00,7.00]	A14: [10.00,9.00]	A15: [11.00,8.00]
-Iteration: 2
-Cluster 0	Centroid = A1: [1.00,1.00]	Members = A1: [1.00,1.00]	A2: [1.00,2.00]	A3: [2.00,0.00]	A4: [2.00,3.00]
-Cluster 1	Centroid = A8: [6.00,4.00]	Members = A8: [6.00,4.00]	A11: [7.00,5.00]	A13: [10.00,7.00]
-Cluster 2	Centroid = A10: [7.00,2.00]	Members = A7: [6.00,2.00]	A10: [7.00,2.00]
-Cluster 3	Centroid = A5: [5.00,10.00]	Members = A5: [5.00,10.00]	A6: [5.00,12.00]	A9: [6.00,10.00]	A12: [9.00,9.00]	A14: [10.00,9.00]	A15: [11.00,8.00]
-Iteration: 3
-Cluster 0	Centroid = A1: [1.00,1.00]	Members = A1: [1.00,1.00]	A2: [1.00,2.00]	A3: [2.00,0.00]	A4: [2.00,3.00]
-Cluster 1	Centroid = A11: [7.00,5.00]	Members = A8: [6.00,4.00]	A11: [7.00,5.00]	A13: [10.00,7.00]	A14: [10.00,9.00]	A15: [11.00,8.00]
-Cluster 2	Centroid = A10: [7.00,2.00]	Members = A7: [6.00,2.00]	A10: [7.00,2.00]
-Cluster 3	Centroid = A5: [5.00,10.00]	Members = A5: [5.00,10.00]	A6: [5.00,12.00]	A9: [6.00,10.00]	A12: [9.00,9.00]
-Iteration: 4
-Cluster 0	Centroid = A1: [1.00,1.00]	Members = A1: [1.00,1.00]	A2: [1.00,2.00]	A3: [2.00,0.00]	A4: [2.00,3.00]
-Cluster 1	Centroid = A13: [10.00,7.00]	Members = A12: [9.00,9.00]	A13: [10.00,7.00]	A14: [10.00,9.00]	A15: [11.00,8.00]
-Cluster 2	Centroid = A10: [7.00,2.00]	Members = A7: [6.00,2.00]	A8: [6.00,4.00]	A10: [7.00,2.00]	A11: [7.00,5.00]
-Cluster 3	Centroid = A5: [5.00,10.00]	Members = A5: [5.00,10.00]	A6: [5.00,12.00]	A9: [6.00,10.00]
-Iteration: 5
-Cluster 0	Centroid = A1: [1.00,1.00]	Members = A1: [1.00,1.00]	A2: [1.00,2.00]	A3: [2.00,0.00]	A4: [2.00,3.00]
-Cluster 1	Centroid = A12: [9.00,9.00]	Members = A12: [9.00,9.00]	A13: [10.00,7.00]	A14: [10.00,9.00]	A15: [11.00,8.00]
-Cluster 2	Centroid = A10: [7.00,2.00]	Members = A7: [6.00,2.00]	A8: [6.00,4.00]	A10: [7.00,2.00]	A11: [7.00,5.00]
-Cluster 3	Centroid = A5: [5.00,10.00]	Members = A5: [5.00,10.00]	A6: [5.00,12.00]	A9: [6.00,10.00]
-Iteration: 6
-Cluster 0	Centroid = A1: [1.00,1.00]	Members = A1: [1.00,1.00]	A2: [1.00,2.00]	A3: [2.00,0.00]	A4: [2.00,3.00]
-Cluster 1	Centroid = A14: [10.00,9.00]	Members = A12: [9.00,9.00]	A13: [10.00,7.00]	A14: [10.00,9.00]	A15: [11.00,8.00]
-Cluster 2	Centroid = A10: [7.00,2.00]	Members = A7: [6.00,2.00]	A8: [6.00,4.00]	A10: [7.00,2.00]	A11: [7.00,5.00]
-Cluster 3	Centroid = A5: [5.00,10.00]	Members = A5: [5.00,10.00]	A6: [5.00,12.00]	A9: [6.00,10.00]
-Iteration: 7
-Cluster 0	Centroid = A1: [1.00,1.00]	Members = A1: [1.00,1.00]	A2: [1.00,2.00]	A3: [2.00,0.00]	A4: [2.00,3.00]
-Cluster 1	Centroid = A14: [10.00,9.00]	Members = A12: [9.00,9.00]	A13: [10.00,7.00]	A14: [10.00,9.00]	A15: [11.00,8.00]
-Cluster 2	Centroid = A7: [6.00,2.00]	Members = A7: [6.00,2.00]	A8: [6.00,4.00]	A10: [7.00,2.00]	A11: [7.00,5.00]
-Cluster 3	Centroid = A5: [5.00,10.00]	Members = A5: [5.00,10.00]	A6: [5.00,12.00]	A9: [6.00,10.00]
-Iteration: 8
-Cluster 0	Centroid = A1: [1.00,1.00]	Members = A1: [1.00,1.00]	A2: [1.00,2.00]	A3: [2.00,0.00]	A4: [2.00,3.00]
-Cluster 1	Centroid = A14: [10.00,9.00]	Members = A12: [9.00,9.00]	A13: [10.00,7.00]	A14: [10.00,9.00]	A15: [11.00,8.00]
-Cluster 2	Centroid = A8: [6.00,4.00]	Members = A7: [6.00,2.00]	A8: [6.00,4.00]	A10: [7.00,2.00]	A11: [7.00,5.00]
-Cluster 3	Centroid = A5: [5.00,10.00]	Members = A5: [5.00,10.00]	A6: [5.00,12.00]	A9: [6.00,10.00]
-Final
-Cluster 0	Centroid = A1: [1.00,1.00]	Members = A1: [1.00,1.00]	A2: [1.00,2.00]	A3: [2.00,0.00]	A4: [2.00,3.00]
-Cluster 1	Centroid = A14: [10.00,9.00]	Members = A12: [9.00,9.00]	A13: [10.00,7.00]	A14: [10.00,9.00]	A15: [11.00,8.00]
-Cluster 2	Centroid = A8: [6.00,4.00]	Members = A7: [6.00,2.00]	A8: [6.00,4.00]	A10: [7.00,2.00]	A11: [7.00,5.00]
-Cluster 3	Centroid = A5: [5.00,10.00]	Members = A5: [5.00,10.00]	A6: [5.00,12.00]	A9: [6.00,10.00]
+Requirement: 
+	JDK 1.8+
+	Maven
+	
+Compiling:
+	Go to root folder where pom.xml resides
+	> mvn clean install
+	> cd target
+	For K mean, i is seed id
+		> java -jar Assignment2.Cluster-1.0-SNAPSHOT.jar -i 7,8,10,11 --action kmean
+	For PAM, i is seed id
+		> java -jar Assignment2.Cluster-1.0-SNAPSHOT.jar -i 7,8,10,11 --action pam
+	The prediction will be in the target folder

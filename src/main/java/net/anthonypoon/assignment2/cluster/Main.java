@@ -5,17 +5,12 @@
  */
 package net.anthonypoon.assignment2.cluster;
 
-import java.awt.Point;
-import java.awt.geom.Point2D;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
-import java.util.Random;
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
 import org.apache.commons.cli.DefaultParser;
 import org.apache.commons.cli.Options;
-import org.apache.commons.cli.ParseException;
 
 /**
  *
@@ -33,6 +28,9 @@ public class Main {
         List<Node> coorArray = new ArrayList();
         for (int i = 0; i < x.length; i++) {
             coorArray.add(new Node("A" + String.valueOf(i+1), x[i], y[i]));
+        }
+        for (Node node : coorArray) {
+            System.out.println(String.format("%.2f", coorArray.get(0).distance(node)));
         }
         List<Cluster> clusterArray = new ArrayList();
         int index = 0;
