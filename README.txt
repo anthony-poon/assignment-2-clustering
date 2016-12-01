@@ -10,4 +10,3 @@ Compiling:
 		> java -jar Assignment2.Cluster-1.0-SNAPSHOT.jar -i 7,8,10,11 --action kmean
 	For PAM, i is seed id
 		> java -jar Assignment2.Cluster-1.0-SNAPSHOT.jar -i 7,8,10,11 --action pam
-	The prediction will be in the target folder
