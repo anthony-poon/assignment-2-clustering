@@ -1,3 +1,5 @@
+Homework for big data class in CUHK master program. We were require to do clustering using Kmean and PAM
+
 Requirement: 
 	JDK 1.8+
 	Maven
